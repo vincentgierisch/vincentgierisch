@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Vincent, a curious computer science student.
+- 👨‍💻 Visit my website for some fun projects: [gierisch.org](gierisch.org)
+
 <!--
 **Simple-codinger/Simple-codinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
