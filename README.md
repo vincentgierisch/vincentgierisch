@@ -2,6 +2,7 @@
 
 I'm Vincent, a curious computer science student.
 - 👨‍💻 Visit my website for some fun projects: [http://gierisch.org](http://gierisch.org)
+- Funfact of the week: Minesweeper is NP-Complete
 
 <!--
 **Simple-codinger/Simple-codinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
