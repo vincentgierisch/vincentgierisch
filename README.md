@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Vincent, a curious computer science student.
-- 👨‍💻 Visit my website for some fun projects: [http://gierisch.org](http://gierisch.org)
+- 👨‍💻 Visit my website for some fun projects: [https://vincentgierisch.de](https://vincentgierisch.de)
 - ⚡ Funfact of the week: Minesweeper is NP-Complete
 - 🌱 I’m currently learning LISP
 <!--
