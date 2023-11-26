@@ -3,7 +3,7 @@
 I'm Vincent, a curious computer science student.
 - 👨‍💻 Visit my website for some fun projects: [https://vincentgierisch.de](https://vincentgierisch.de)
 - ⚡ Funfact of the week: Minesweeper is NP-Complete
-- 🌱 I’m currently learning LISP
+- 🌱 I’m currently taking a deep dive into the quantum computer world
 <!--
 **Simple-codinger/Simple-codinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
